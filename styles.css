@@ -19,8 +19,13 @@ a{
     
     text-decoration: none;
     padding: 30px;
+    color:black;
     
+}
+a:hover{
+color:white;
 }
 body{
 text-align:center;
+background-color:rgb(183, 193, 196)
 }
